@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "texturessss": {
+    "down": "blocks/bedrock",
+    "up": "lya:blocks/boiler_casing",
+    "north": "blocks/dirt",
+    "east": "blocks/cobblestone",
+    "south": "blocks/iron_block",
+    "west": "block/stone",
+    "particle": "blocks/lapis_block"
+  }
+}

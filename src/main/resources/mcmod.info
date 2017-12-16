@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lya",
+  "name": "Loulfy's Addons",
+  "description": "Add a liquid fueled heater.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Loulfy"],
+  "credits": "A lonely guy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

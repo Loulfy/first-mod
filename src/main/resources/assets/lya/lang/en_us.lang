@@ -1,0 +1,8 @@
+itemGroup.tabLya=Loulfy's Addons
+
+tile.heater.name=Fueled Liquid Heater
+tile.cube.name=The Cube
+
+tile.machine.HeaterController.name=Heater Controller
+tile.machine.HeaterCasing.name=Heater Casing
+tile.machine.HeaterValve.name=Heater Valve
